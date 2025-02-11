@@ -12,4 +12,4 @@ This is a simple portfolio website created as a GitHub project submission. It in
 3. Customize as needed.
 
 ## Author
-User's Name
+Sakibul Islam Sakib 
